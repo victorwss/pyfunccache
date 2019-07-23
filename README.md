@@ -1,2 +1,2 @@
 # pyfunccache
-Simple Caching and memoization for python functions.
+Simple caching and memoization for python functions.

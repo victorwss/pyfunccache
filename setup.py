@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyfunccache",
-    version="1.0.0.0",
+    version="1.0.0.1",
     author="Victor Williams Stafusa da Silva",
     author_email="victorwssilva@gmail.com",
-    description="Easily wrap connections and cursors by using decorators.",
+    description="Simple caching and memoization for python functions.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/victorwss/pyfunccache",
